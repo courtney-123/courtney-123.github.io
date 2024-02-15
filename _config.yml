@@ -43,7 +43,7 @@ author: courtney sommerville
 copyright: "Unpublished Work (cleft) 2023-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  all the work completed throughout my time studying a MSC in data science.
+  This portfolio showcases all the work i have completed throughout my masters degree in Data Science and the skills i have gained.
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
